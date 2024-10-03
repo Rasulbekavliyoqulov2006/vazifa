@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RAsulbek</h1>
+<h1 align="center">Hi 👋, I'm Rasulbek</h1>
 <h3 align="center">FULL STACK programmer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasulbekavliyoqulov2006&label=Profile%20views&color=0e75b6&style=flat" alt="rasulbekavliyoqulov2006" /> </p>
